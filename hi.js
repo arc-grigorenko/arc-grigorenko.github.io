@@ -257,5 +257,6 @@ tinymce.addI18n('hi',{
 "Table": "Table hi",
 "Tools": "Tools hi",
 "Powered by {0}": "Powered by {0} hi",
-"Rich Text Area. Press ALT-F9 for menu. Press ALT-F10 for toolbar. Press ALT-0 for help": "Rich Text Area. Press ALT-F9 for menu. Press ALT-F10 for toolbar. Press ALT-0 for help hi"
+"Rich Text Area. Press ALT-F9 for menu. Press ALT-F10 for toolbar. Press ALT-0 for help": "Rich Text Area. Press ALT-F9 for menu. Press ALT-F10 for toolbar. Press ALT-0 for help hi",
+"Fonts": "Fonts hi",
 });
